@@ -1,0 +1,17 @@
+websockets - no polling no refreshing
+
+
+
+TECH STACK:
+workflow execution - ingest - real time pub/sub messages
+        manage retries if something fails
+        background job execution
+        '
+database layer - postgres and orm (prisma and neon)
+authentication - better auth
+payment and subs - polar 
+foundation - nextjs and typescript
+react flow - visual canvas 
+ai - open ai , claude , gemini
+github workflow - code rabbit
+production ready - sentry
