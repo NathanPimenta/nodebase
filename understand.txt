@@ -15,3 +15,8 @@ react flow - visual canvas
 ai - open ai , claude , gemini
 github workflow - code rabbit
 production ready - sentry
+
+
+// we use global in db.ts to prevent hot reload for our client , this is done only in development and not in prototyping 
+
+// every page file in src is considered a server component - it technically acts as an api route
